@@ -15,3 +15,9 @@ Daily Scrum:
 Sprint Retrospective:
     Discuss work complete
     Move incomplete work into backlog
+
+d) 
+Epic: Large body of work that can be broken down into a number of smaller stories
+Story: Software system requirement expressed in a few short sentences
+Bug: A problem that impairs or prevents the functions of the project
+Task: A particular piece of work to be done
