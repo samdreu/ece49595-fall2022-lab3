@@ -2,3 +2,6 @@ a) In a non-agile project, the team leader is equivalent to the Product owner.
 Their role in the team is to set direction for the ream, handle release management,
 and stakeholder management. They are needed for all of those responsibilities and
 are needed for them in the team.
+
+b) The scrum master is responsible for all the scrum related tasks like JIRA tooling,
+facilitating sprints and meetings, and all standups are led by the scrum master.
