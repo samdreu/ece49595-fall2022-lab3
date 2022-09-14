@@ -5,3 +5,13 @@ are needed for them in the team.
 
 b) The scrum master is responsible for all the scrum related tasks like JIRA tooling,
 facilitating sprints and meetings, and all standups are led by the scrum master.
+
+c)
+Sprint planning:
+    What to complete in coming sprints
+    Determine story points and assign stories to team
+Daily Scrum:
+    Discuss work completed, work plan for the day, any blockers
+Sprint Retrospective:
+    Discuss work complete
+    Move incomplete work into backlog
